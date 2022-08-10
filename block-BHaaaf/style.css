@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+}
+
+#title {
+  color: goldenrod;
+  font-size: 72px;
+}
+
+.description {
+  color: burlywood;
+  font-size: 24px;
+}
